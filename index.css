@@ -1,0 +1,36 @@
+
+/*begining of style*/
+h1{
+    background-color: rgb(245, 115, 68);
+    display: inline;
+    font-size: x-large;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p::first-letter{
+    font-size:xxx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: crimson;
+}
+h3{
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+span{
+    color: yellow;
+    font-size: x-large;
+}
+.item{
+    color: blue;
+}
+.item1{
+    color: rgb(221, 18, 228);
+}
+.item2{
+    color: brown;
+}
+button:hover{
+    background-color: blue;
+    cursor: crosshair;
+}
+/*end of style*/
